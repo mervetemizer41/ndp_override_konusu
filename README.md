@@ -23,6 +23,7 @@ Kodları Eclipse'te yeni bir proje yeni bir paket yaptıktan sonra içine farkl�
 "Run as Java application" diyerek çalıştırın.
 
 Hello!
+
 Hallo!!!!
 
 şeklindeki sonucu görün.
